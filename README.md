@@ -1,2 +1,2 @@
-# Milestone 1
-This marks the beginning of the project, with this being the initial test commit.
+# Task Management Program
+The goal of this program is to offer users a way to manage, track, and organize their daily tasks within a single program. The program provides users with the ability to create, edit, delete, time, and record tasks, as well as the ability to subdivide tasks into smaller sub-tasks. In addition to the main task management functionality, the program also allows users to time tasks while working on them, and review a statistics page that visualizes various data points regarding how much time was spent working on tasks each month.
